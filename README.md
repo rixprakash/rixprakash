@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey everyone.
+
+My name is Rix Prakash and I am a 4th year in the UVA McIntire School of Commerce studying finance and data science. Below is some information about me: 
+
 
 <!--
 **rixprakash/rixprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
