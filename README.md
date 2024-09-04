@@ -1,11 +1,11 @@
-## Hey everyone.
+## Hey everyone! Welcome to my README :) 
 
 My name is Rix Prakash and I am a 4th year in the UVA McIntire School of Commerce studying finance and data science. Below is some information about me: 
 
-- I'm currently learning how to use github for two of my data science clases. I am also studying for the GMAT in my free time to apply for a deferred MBA program.
-- I'm looking to collaborate on future projects to enhance my knowledge. I am a firm believer in learning by doing so I am looking forward to more projects.
-- You can reach out to me via my email: nuf7jw@virginia.edu
-- Fun Fact: I am currently training for an Ironman and dedciate time towards swimming, biking, and running. If you like to do any of these activites, please reach out to me and we can plan to do a workout together! 
+- 📚 I'm currently learning how to use github for two of my data science clases. I am also studying for the GMAT in my free time to apply for a deferred MBA program.
+- 👨‍🎓 I'm looking to collaborate on future projects to enhance my knowledge. I am a firm believer in learning by doing so I am looking forward to more projects.
+- 📧 You can reach out to me via my email: nuf7jw@virginia.edu
+- 🏃 Fun Fact: I am currently training for an Ironman and dedciate time towards swimming, biking, and running. If you like to do any of these activites, please reach out to me and we can plan to do a workout together! 
 
 <!--
 **rixprakash/rixprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
